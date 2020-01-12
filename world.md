@@ -18,7 +18,7 @@ Work
             <p> My name is Thanadole Bunyamark. My Student ID is 622115013. My friends calls me Na. I'm 18 years old now and currently   study in first year at CAMT CMU. 
         </h2>
         </p>
-        <img src="me.png">
+        <img src="![me](https://user-images.githubusercontent.com/59790128/72216644-76835700-3556-11ea-85d5-8920ec6f738f.png)">
         
        
     </div>
